@@ -30,7 +30,11 @@ I am 36 years old, I am temporarily out of work. I need a job with which I will 
 
 ## Code Examples
 
-
+'''
+function multiply(a, b){
+  return a * b
+}
+'''
 
 ## Languages
 
